@@ -4,6 +4,7 @@ Aplicación web que integra React en el frontend y Python en el backend, conecta
 
 ## Tecnologias
 https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white
+
 https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
 https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white
 https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white
